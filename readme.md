@@ -6,8 +6,10 @@
 - Practice in solving first task.
 
 ### Short description
+You need to update `Intro.java` class in order it prints to console phrase `Hello, Autocode!`
 
-You need to update `Intro.java` class in order it print to console phrase `Hello, Autocode!`
+Please see readme.md  file in skeleton repository for detailed instructions.
+
 
 ### Detailed description
 
