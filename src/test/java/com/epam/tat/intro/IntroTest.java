@@ -17,7 +17,7 @@ public class IntroTest {
         System.setOut(controlledOut);
         Intro.main(new String[]{});
         controlledOut.flush();
-        assertEquals("Hello, Autocode!", sink.toString().trim());
+        assertEquals("Hello, AutoСode!", sink.toString().trim());
 
         System.setOut(defaultOut);
     }
